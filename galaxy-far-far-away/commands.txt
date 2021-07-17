@@ -1,0 +1,5 @@
+~/Documents/per scholas/nationwide/labs/git-github-and-terminal (master)
+$ mkdir galaxy-far-far-away
+
+~/Documents/per scholas/nationwide/labs/git-github-and-terminal (master)
+$ touch galaxy-far-far-away/commands.txt
